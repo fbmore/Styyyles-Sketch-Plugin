@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Styyyles</title>
+    <link>https://raw.githubusercontent.com/fbmore/Styyyles-Sketch-Plugin/main/appcast.xml</link>
+    <description>Automatically Create Shared Styles and Match them to Unstyled Layers.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.0.1</title>
+      <description>
+        <![CDATA[
+        <ul>
+          <li>Initial release</li>
+        </ul>
+        ]]>
+      </description>
+      <enclosure url="https://github.com/fbmore/Styyyles-Sketch-Plugin/raw/main/Styyyles.sketchplugin.zip" sparkle:version="0.0.1" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>

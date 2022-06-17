@@ -1,0 +1,31 @@
+{
+  "author" : "Francesco Bertocci",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "🪄 Styyyles",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "🪄 Styyyles",
+    "isRoot": true,
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+    
+  },
+  "identifier" : "com.fbmore.sketch.autostyles",
+  "name": "Styyyles",
+  "description": "Automatically Create Shared Styles and Match them to Unstyled Layers.",
+  "version": "0.0.1",
+  "author": "Francesco Bertocci",
+  "authorEmail": "fbmore@gmail.com",
+  "appcast": "",
+  "homepage": "",
+  "copyright": "Copyright © 2022 Francesco Bertocci. All rights reserved.",
+  "icon": "icon.png"
+}
